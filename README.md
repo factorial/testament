@@ -10,3 +10,5 @@ fucked that up. try again.
 once more.
 
 poffin wants a piece
+
+another for factorial
