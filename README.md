@@ -10,3 +10,5 @@ fucked that up. try again.
 once more.
 
 poffin wants a piece
+
+edit for #19. monthly. bill paid.
